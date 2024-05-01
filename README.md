@@ -6,7 +6,7 @@
 
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Delowar-Designer&label=Profile%20Views%20Delowar-Designer&color=3&icon=0&pretty=true" />  
-  <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="200" height="200"/> </a> 
+  <p align="center"> <a href="" target="_blank" rel="noreferrer"> </a> 
 
  # Hello Delowar Hossan   
 <p align="justify">
