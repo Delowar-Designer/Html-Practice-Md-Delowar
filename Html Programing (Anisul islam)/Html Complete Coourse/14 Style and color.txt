@@ -1,0 +1,22 @@
+<!--Heading and paragraph-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Heeading and paragraph Delowar </title>
+	<body>
+		<h1 align="center"> Developer Delowar.Designer</h1> <hr>
+		<h2 align="right"> Md Delowar Hossan</h2>
+		<h3> Developer Delowar.Designer</h3>
+		<h4> Developer Delowar.Designer</h4>
+		<h5> Developer Delowar.Designer</h5>
+		<h6> Developer Delowar.Designer</h6>
+		<p align="left"> Bangladesh is a small country of south Asia. It was free from pakistan in Bangladesh is a country at the Bay of Bengal and is mostly enclosed by India.</p>
+		<p align="right"> The land has a total area of 147,630 km² (57,000 mi²) and a total coastline of 580 km (360.4 mi). This land area is approximately 72% of the area of Minnesota.</p> 
+		<p align="justify">Bangladesh is thus the 26th smallest country in Asia and ranked 94th in the world. The Bengal Sultanate permitted the Portuguese settlement in Chittagong to be established in 1528. It became the first European colonial enclave in Bengal. The Bengal Sultanate lost control of Chittagong in 1531 after Arakan declared independence and the established Kingdom of Mrauk U. Portuguese ships from Goa and Malacca began frequenting the port city in the 16th century. The cartaz system was introduced and required all ships in the area to purchase naval trading licenses from the Portuguese. Portuguese piracy in the sea flourished. The nearby island of Sandwip was captured in 1602. In 1615, the Portuguese Navy defeated a joint fleet of the Dutch East India Company and the Arakanese near the coast of Chittagong.</p> 
+
+	</body>
+	
+	</head>
+</html>
+
