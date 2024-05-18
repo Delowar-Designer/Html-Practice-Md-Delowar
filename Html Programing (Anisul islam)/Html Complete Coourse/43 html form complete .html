@@ -1,0 +1,63 @@
+<!--html form complete-->
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> html form complete </title>
+	</head>
+	<body>
+		<h2> Registration form </h2>
+		
+		<form>
+			<!--FullNName: <input type="text">-->
+			<div>
+				<label for="fullname"> FullName: </label> 
+				<input type="text" name="fullname" id="fullname" required readonly>
+			</div> <br>
+			<div>
+				<label for="email"> Email: </label> 
+				<input type="email" name="email" id="email">
+			</div> <br>
+			<div>
+				<label for="password"> Password: </label> 
+				<input type="password" name="password" id="password">
+			</div> <br>
+			<div>
+				<label for="date"> Date of Birth: </label> 
+				<input type="date" name="date" id="date">
+			</div> <br>
+			<div>
+				<label for="photo"> Choose your photo: </label> 
+				<input type="file" name="photo" id="photo">
+			</div> <br>
+			<div>
+				<label for="gender"> Gender: </label> 
+				<input type="radio" name="gender" id="gender" value="male"> Male
+				<input type="radio" name="gender" id="gender" value="female"> Female
+			</div> <br>
+			<div>
+				<label for="religion"> Religion: </label> 
+				<input checked type="checkbox" name="c1" id="muslim" value="muslim"> Islam
+				<input type="checkbox" name="c1" id="hindu" value="hindu"> Hindu
+			</div> <br>
+			
+			<div>
+				<label for="department"> Department: </label>
+				<select name="department">
+					<option value="CSE" selected> CSE </option>
+					<option value="eee"> EEE </option>
+					<option value="llb"> LLB </option>
+					
+				</select>
+			</div>
+			<div>
+				<label for="message"> Message: </label> <br>
+				<textarea cols="50" rows="20"> </textarea>
+			</div>
+			<div>
+				<input type="submit" value="Register">
+				<input type="reset" value="Clear">
+			</div>
+		</form>
+		
+	</body>
+</html>
